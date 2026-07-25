@@ -14,6 +14,8 @@ Ce dépôt formalise la stratégie d'un **média indépendant propulsé par des 
 | [docs/02-redaction-ia.md](docs/02-redaction-ia.md) | Architecture de la rédaction : les agents IA, le workflow, le rôle du rédacteur en chef humain |
 | [docs/03-ligne-editoriale.md](docs/03-ligne-editoriale.md) | Piliers éditoriaux, formats, ton, règles d'intégration d'ONYRA, politique de transparence sur l'IA |
 | [docs/04-roadmap-kpis.md](docs/04-roadmap-kpis.md) | Plan de lancement en phases, objectifs chiffrés, valeur de l'actif |
+| [docs/05-charte-agents.md](docs/05-charte-agents.md) | Règles communes à tous les agents : interdits, hiérarchie des sources, escalade vers l'humain |
+| [agents/](agents/) | Les 9 prompts système, prêts à l'emploi (veilleur, fact-checker, rédacteur, SEO, LinkedIn, X, TikTok, newsletter, emails) |
 
 ## Résumé en trois points
 
