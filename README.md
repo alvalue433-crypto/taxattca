@@ -15,7 +15,9 @@ Ce dépôt formalise la stratégie d'un **média indépendant propulsé par des 
 | [docs/03-ligne-editoriale.md](docs/03-ligne-editoriale.md) | Piliers éditoriaux, formats, ton, règles d'intégration d'ONYRA, politique de transparence sur l'IA |
 | [docs/04-roadmap-kpis.md](docs/04-roadmap-kpis.md) | Plan de lancement en phases, objectifs chiffrés, valeur de l'actif |
 | [docs/05-charte-agents.md](docs/05-charte-agents.md) | Règles communes à tous les agents : interdits, hiérarchie des sources, escalade vers l'humain |
+| [docs/06-a-propos.md](docs/06-a-propos.md) | Texte de référence de la page « À propos » : transparence sur la propriété et sur l'usage de l'IA |
 | [agents/](agents/) | Les 9 prompts système, prêts à l'emploi (veilleur, fact-checker, rédacteur, SEO, LinkedIn, X, TikTok, newsletter, emails) |
+| [veille/](veille/) | Sorties de l'agent veilleur — la première édition sert de stock de lancement |
 
 ## Résumé en trois points
 
